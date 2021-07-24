@@ -1,0 +1,5 @@
+name: TabHealth
+main: jp.minecraft.hibi_10000.plugins.TabHealth
+version: "1.0"
+author: Hibi_10000
+description: Shows the players health in the TAB board.
