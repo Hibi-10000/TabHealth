@@ -24,6 +24,7 @@ public class TabHealth extends JavaPlugin {
 				for(Player player : Bukkit.getOnlinePlayers()) {
 					String health = numb.format(player.getHealth());
 					String color;
+					String p = player.getName();
 					if(player.getHealth() <= 6) {
 						color = "§C§L";
 					} else if(player.getHealth() <= 12) {
@@ -31,7 +32,7 @@ public class TabHealth extends JavaPlugin {
 					} else {
 						color = "§A§L";
 					}
-					String name = color + player + " :" + health;
+					String name = color + p + " :" + health;
 					player.setPlayerListName(name);
 				}
 			}
