@@ -1,6 +1,6 @@
 name: TabHealth
 main: com.github.hibi_10000.plugins.TabHealth
-version: 1.1
+version: ${project.version}
 author: Hibi_10000
-website: https://github.com/Hibi-10000/TabHealth/Releases
+website: https://github.com/Hibi-10000/TabHealth
 api-version: 1.16
