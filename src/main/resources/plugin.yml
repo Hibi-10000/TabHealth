@@ -1,5 +1,5 @@
 name: TabHealth
-main: com.github.hibi_10000.plugins.TabHealth
+main: com.github.hibi_10000.plugins.tabhealth.TabHealth
 version: ${project.version}
 author: Hibi_10000
 website: https://github.com/Hibi-10000/TabHealth

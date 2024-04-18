@@ -1,4 +1,4 @@
-package com.github.hibi_10000.plugins;
+package com.github.hibi_10000.plugins.tabhealth;
 
 import java.text.NumberFormat;
 
