@@ -3,4 +3,4 @@ main: com.github.hibi_10000.plugins.TabHealth
 version: ${project.version}
 author: Hibi_10000
 website: https://github.com/Hibi-10000/TabHealth
-api-version: 1.16
+api-version: 1.13
